@@ -29,7 +29,7 @@ pip install easyocr mss pillow
 On Linux, you may need libgl1:
 ```bash
 sudo apt install libgl1
-
+```
 
 ## 🚀 Usage
 
@@ -37,4 +37,13 @@ sudo apt install libgl1
 
 ```bash
 python screenshot_ocr.py
+```
 By default, it captures the entire screen.
+
+
+🙌 Credits
+EasyOCR
+
+MSS (multi-screen-shot)
+
+Pillow (PIL)
