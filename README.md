@@ -32,7 +32,9 @@ sudo apt install libgl1
 
 
 ## 🚀 Usage
+
 ### ▶️ Run the script
+
 ```bash
 python screenshot_ocr.py
 By default, it captures the entire screen.
