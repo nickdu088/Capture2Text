@@ -41,8 +41,8 @@ python screenshot_ocr.py
 By default, it captures the entire screen.
 
 
-## 🙌 Credits
+### 🙌 Credits
 
-### [EasyOCR](https://github.com/JaidedAI/EasyOCR)
-### [MSS (multi-screen-shot)](https://github.com/BoboTiG/python-mss)
-### [Pillow (PIL)](https://pypi.org/project/Pillow/)
+#### [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+#### [MSS (multi-screen-shot)](https://github.com/BoboTiG/python-mss)
+#### [Pillow (PIL)](https://pypi.org/project/Pillow/)
