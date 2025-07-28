@@ -25,6 +25,7 @@ A cross-platform Python utility to **capture screenshots** of any region on your
 
 ```bash
 pip install easyocr mss pillow
+```
 
 On Linux, you may need libgl1:
 ```bash
