@@ -10,7 +10,7 @@ def capture_screen_text(left=None, top=None, width=None, height=None):
     perform OCR to extract text, and save both image and text.
     """
     with mss.mss() as sct:
-        monitor = sct.monitors[1]  # Monitor 1 = primary screen
+        monitor = sct.monitors[0]  # Monitor 1 = primary screen
         screen_width = monitor['width']
         screen_height = monitor['height']
 
