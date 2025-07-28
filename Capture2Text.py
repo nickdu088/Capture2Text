@@ -38,7 +38,7 @@ def capture_screen_text(left=None, top=None, width=None, height=None):
         print(f"Screenshot saved to: {image_path}")
 
     # Run OCR (English + Simplified Chinese)
-    reader = easyocr.Reader(['ch_sim', 'en'])
+    reader = easyocr.Reader(['ch_sim', 'en'], verbose=False)
     results = reader.readtext(image_path)
 
     # Extract text
