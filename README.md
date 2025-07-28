@@ -37,7 +37,7 @@ sudo apt install libgl1
 ### ▶️ Run the script
 
 ```bash
-python screenshot_ocr.py
+python Capture2Text.py
 ```
 By default, it captures the entire screen.
 
